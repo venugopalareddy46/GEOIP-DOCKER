@@ -566,7 +566,9 @@ Country Detected: India
 # 🇺🇸 USA VPN Testing
 
 Connect to a USA VPN.
-
+<p align="center">
+  <img src="screenshots/vpn.png" width="100%">
+</p>
 Open:
 
 ```text
