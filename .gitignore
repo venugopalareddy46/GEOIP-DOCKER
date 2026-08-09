@@ -1,0 +1,19 @@
+# GeoIP database
+geoip/*.mmdb
+
+# Environment files
+.env
+.env.*
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Docker
+docker-compose.override.yml
