@@ -415,12 +415,12 @@ Navigate to:
 C:\Windows\System32\drivers\etc\hosts
 ```
 
-Add:
+Add: local host place add ip
 
 ```text
-127.0.0.1 venugeoloc.com
-127.0.0.1 venugeoloc-ind.com
-127.0.0.1 venugeoloc-us.com
+localhost venugeoloc.com
+localhost venugeoloc-ind.com
+localhost venugeoloc-us.com
 ```
 
 Save the file.
