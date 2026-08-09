@@ -29,19 +29,26 @@ The application detects the visitor's country based on their IP address and auto
 ```text
 venugeoloc.com
 ```
+<p align="center">
+  <img src="screenshots/global.png" width="100%">
+</p>
 
 ### 🇮🇳 India
 
 ```text
 venugeoloc-ind.com
 ```
-
+<p align="center">
+  <img src="screenshots/india.png" width="100%">
+</p>
 ### 🇺🇸 USA
 
 ```text
 venugeoloc-us.com
 ```
-
+<p align="center">
+  <img src="screenshots/usa.png" width="100%">
+</p>
 ---
 
 # 🎯 Objective
